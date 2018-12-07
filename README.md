@@ -21,4 +21,4 @@ Soon after you decide to embrace serverless architectures you realize that there
 - Some familiarity with Go is helpful but not required
 
 ## About the Instructor
-Guiding you through this journey will be Johnny Boursiquot, author of the well-liked Go Standard Library Solutions course available from Packt Publishing. Johnny is an active member and leader within the Go community. He runs the Baltimore Metro Area Go User Group, leads the Baltimore Chapter of the GoBridge organization, and speaks regularly at conferences and meetups. He loves to teach and to welcome new members into the community. Reach him on Twitter @jboursiquot.
+Guiding you through this journey will be [Johnny Boursiquot](https://jboursiquot.com), author of the well-liked Go Standard Library Solutions course available from Packt Publishing. Johnny is an active member and leader within the Go community. He runs the Baltimore Metro Area Go User Group, leads the Baltimore Chapter of the GoBridge organization, and speaks regularly at conferences and meetups. He loves to teach and to welcome new members into the community. Reach him on Twitter [@jboursiquot](https://twitter.com/jboursiquot).
