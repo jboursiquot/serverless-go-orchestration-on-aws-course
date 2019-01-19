@@ -4,15 +4,15 @@ Soon after you decide to embrace serverless architectures you realize that there
 
 ## Course Outline
 
-- Introduction: Serverless Orchestration on AWS (30 minutes)
-- Demo and walkthrough of the serverless app architecture (30 minutes)
+- Introduction: Serverless Orchestration on AWS (15 minutes)
+- Demo and walkthrough of the serverless app architecture (15 minutes)
 - Getting to know SAM: Serverless Application Model (15 minutes)
 - Hands On: Deploying your serverless stack (30 minutes)
 - Writing Lambda Functions in Go (30 minutes)
-- Hands On: Writing and testing your Go Lambdas (45 minutes)
-- Orchestrating Lambda with Step Functions and SQS (30 minutes)
+- Hands On: Writing and testing your Go Lambdas (35 minutes)
+- Orchestrating Lambda with Step Functions and SQS (15 minutes)
 - Hands On: Bringing it all together and updating your serverless stack (15 minutes)
-- Q&A and Wrap-up
+- Q&A and Wrap-up (10 minutes)
 
 ## Prerequisites
 - Have an AWS account; the services we use will fit comfortably within the free tier AWS provides
