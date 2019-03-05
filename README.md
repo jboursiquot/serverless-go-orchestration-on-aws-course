@@ -15,9 +15,10 @@ Soon after you decide to embrace serverless architectures you realize that there
 - Q&A and Wrap-up (10 minutes)
 
 ## Prerequisites
-- Have an AWS account; the services we use will fit comfortably within the free tier AWS provides
+- Have an AWS account and the [awscli](https://aws.amazon.com/cli/) configured locally (the services we use will fit comfortably within the free tier AWS provides)
 - Have Docker installed
 - Have Go installed (either on your machine or running from Docker container)
+- Use an editor/IDE with Go plugin installed (optional)
 - Some familiarity with Go is helpful but not required
 
 ## About the Instructor
