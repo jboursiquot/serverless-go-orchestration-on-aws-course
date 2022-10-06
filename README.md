@@ -12,6 +12,8 @@ Soon after you decide to embrace serverless architectures you realize that there
 - Hands On: Writing and testing your Go Lambdas
 - Orchestrating Lambda with Step Functions and SQS
 - Hands On: Bringing it all together and updating your serverless stack
+- Extending your serverless architecture by integrating with stateful services
+- Hands On: Deploying stateful services
 - Hands On: Additional exercices
 - Q&A and Wrap-up
 
